@@ -13,17 +13,7 @@ Please note: This script is **extremely simple**. The calculation year is hard-c
 
 ## How to Use This Project
 
-There are two ways to use this program:
-
-### 1. For Regular Windows Users (Easiest Way)
-
-If you don't have Python installed, you can just download and run the executable file.
-1.  Go to the main page of this repository.
-2.  Find the `َAge.exe` file in the file list.
-3.  Click on it, and then click the **Download** button.
-4.  Double-click the downloaded file to run it.
-
-### 2. For Developers (Using Git and Python)
+### 1. For Developers (Using Git and Python)
 
 If you have **Git** and **Python** installed on your computer, you can clone this repository and run the script from your terminal.
 
